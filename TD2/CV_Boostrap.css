@@ -1,0 +1,17 @@
+/*
+img {
+    position: fixed;
+    min-width: 100%;
+    max-width: 100%;
+}*/
+
+body
+{
+    background-image: url("./images/image3CV.jpg");
+    background-size: cover;
+}
+
+#mail {
+    color: white;
+}
+
